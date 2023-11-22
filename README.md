@@ -1,3 +1,3 @@
-# goit-markup-hw-06
+# goit-markup-hw-07
 
-**Homework 6 - Elements of Forms**
+**Homework 7 - Adaptive Layout**
